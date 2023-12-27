@@ -1,4 +1,4 @@
-# Region-aware Spatiotemporal Transformer for Visual Homogenization Recognition in Short Videos
+# BJUT-HCD
 This repository provides a dataset of short videos about homogeneous content.
 ![image](https://github.com/BJUT-AIVBD/HCD/blob/main/Fig1.png)
 
