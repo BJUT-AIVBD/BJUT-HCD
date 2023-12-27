@@ -1,5 +1,6 @@
 # Region-aware spatiotemporal Transformer for visual homogenization recognition in short videos
 This repository provides a dataset of short videos about homogeneous content.
+![image](https://github.com/BJUT-AIVBD/HCD/blob/main/Fig1.png)
 
 ## Introduction
 Specifically designed for homogenization recognition, the self-built BJUT-HCD covers a wide range of video topics with a total of 23 types of homogeneous content, including emotion, news, entertainment, fun, and creative editing categories.
