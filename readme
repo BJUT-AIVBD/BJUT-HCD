@@ -5,7 +5,7 @@ This repository provides a dataset of short videos about homogeneous content.
 Specifically designed for homogenization recognition, the self-built BJUT-HCD covers a wide range of video topics with a total of 23 types of homogeneous content, including emotion, news, entertainment, fun, and creative editing categories.
 
 ## Download the dataset
-The way to download the dataset and the examples of short vides are stored in the [file](homogeneous_content_dataset).
+The way to download the dataset and the examples of short vides are stored in the "homogeneous_content_dataset".
 
 ## Cite this repository
 If you use this software in your work, please cite it using the following metadata.
